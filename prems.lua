@@ -13,6 +13,8 @@ local AdminId = {
 
 local EnemyId = {
 	[2013955831] = true, --Imranowitsch
+	
+}
 
 
 function premium()
