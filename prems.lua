@@ -1,5 +1,5 @@
 local StarId = {
-	[2279582870] = true, --zoe <3
+	[1264162030] = true, --anton
 
 }
 
