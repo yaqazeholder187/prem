@@ -7,7 +7,7 @@ local StaffId = {}
 
 local AdminId = {
 	[1359226417] = true, --Hakuchan8
-	[240958174] = true, --Alt Acc don´t delete
+	[240679580] = true, --Alt Acc don´t delete
 }
 
 local EnemyId = {
