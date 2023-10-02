@@ -1,5 +1,5 @@
 local StarId = {
-	[1264162030] = true, --anton
+	[] = true, --add prem users here
 
 }
 
